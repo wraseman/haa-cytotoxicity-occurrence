@@ -1,0 +1,10 @@
+Contaminant,Abbreviation,Specific Endpoint,LC50 Observations,LC50(mol/L),Assay,1/LC50(L/mol),HAA5,HAA6Br,HAA9,Grp_HAA_EPA,Grp_HAA_Halogen,Bromine_Count,MolecularWeight(g/mol),PubChemID
+monobromoacetic acid,MBAA,LC50,3,9.35E-06,CHO cell chronic cytotoxicity (72 hr),106913.7562,TRUE,TRUE,TRUE,HAA5; HAA9,mHAA,1,138.948,6227
+monochloroacetic acid,MCAA,LC50,3,0.000867333,CHO cell chronic cytotoxicity (72 hr),1152.959262,TRUE,FALSE,TRUE,HAA5; HAA9,mHAA,0,94.494,300
+dibromoacetic acid,DBAA,LC50,2,0.000545,CHO cell chronic cytotoxicity (72 hr),1834.862385,TRUE,TRUE,TRUE,HAA5; HAA9,dHAA,2,217.844,12433
+dichloroacetic acid,DCAA,LC50,2,0.009385,CHO cell chronic cytotoxicity (72 hr),106.5530101,TRUE,FALSE,TRUE,HAA5; HAA9,dHAA,0,128.936,6597
+bromochloroacetic acid,BCAA,LC50,1,0.00078,CHO cell chronic cytotoxicity (72 hr),1282.051282,FALSE,TRUE,TRUE,HAA9 (not in HAA5),dHAA,1,173.39,542762
+tribromoacetic acid,TBAA,LC50,2,0.0005425,CHO cell chronic cytotoxicity (72 hr),1843.317972,FALSE,TRUE,TRUE,HAA9 (not in HAA5),tHAA,3,296.74,6415
+trichloroacetic acid,TCAA,LC50,2,0.00996,CHO cell chronic cytotoxicity (72 hr),100.4016064,TRUE,FALSE,TRUE,HAA5; HAA9,tHAA,0,163.378,6421
+chlorodibromoacetic acid,CDBAA,LC50,1,0.0002,CHO cell chronic cytotoxicity (72 hr),5000,FALSE,TRUE,TRUE,HAA9 (not in HAA5),tHAA,2,252.286,115266
+bromodichloroacetic acid,BDCAA,LC50,1,0.00069,CHO cell chronic cytotoxicity (72 hr),1449.275362,FALSE,TRUE,TRUE,HAA9 (not in HAA5),tHAA,1,207.832,114809
